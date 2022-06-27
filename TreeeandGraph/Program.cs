@@ -10,6 +10,7 @@ namespace TreeeandGraph
     {
         static void Main(string[] args)
         {
+            ///
             Tree BST = new Tree();
             Console.Write("Enter number of elements you want to have in the tree: ");
             int numberOfElementsInTree = int.Parse(Console.ReadLine());
